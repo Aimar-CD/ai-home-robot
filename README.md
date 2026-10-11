@@ -138,7 +138,9 @@ Possible later phases may include:
 
 ## Photos and videos
 
-Build evidence should be added progressively to `photos/`.
+Photos and videos are stored exclusively in Google Drive and are not duplicated in this repository.
+
+Selected evidence may be linked here when appropriate, after reviewing access permissions.
 
 ## Project timeline
 
